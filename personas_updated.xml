@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Personas>
+    <Persona id="F1">
+        <Nombre>MARIPILI</Nombre>
+        <Edad>33</Edad>
+        <Genero>F</Genero>
+    </Persona>
+    <Persona id="F2">
+        <Nombre>MARIJUANA</Nombre>
+        <Edad>38</Edad>
+        <Genero>F</Genero>
+    </Persona>
+</Personas>
